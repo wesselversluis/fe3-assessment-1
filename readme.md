@@ -13,8 +13,7 @@ A simple bar chart visualizing the amount of native speakers of the most spoken 
 
 #### Process
 
-The purpose of this assessment was to better understand the basiscs of D3, data and SVG. I made a bar chart visualizing the amount of speakers of the most spoken languages.
-
+The purpose of this assessment was to better understand the basiscs of D3, data and SVG. I made a bar chart visualizing the amount of speakers of the most spoken languages. The bars are colored randomly and change if you reload the page, I did this just to add some fun and learn from it. I also added a tooltip to show the exact amount of speakers of a given language when you hover over it.
 
 ### License
 Released under the GNU General Public License, version 3.
