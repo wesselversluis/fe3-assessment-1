@@ -1,3 +1,5 @@
+![Screenshot](preview.png)
+
 # Assessment 1
 A simple bar chart visualizing the amount of native speakers of the most spoken languages in the world.
 
