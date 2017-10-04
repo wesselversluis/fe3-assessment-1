@@ -17,4 +17,3 @@ The purpose of this assessment was to better understand the basiscs of D3, data 
 
 ### License
 Released under the GNU General Public License, version 3.
-
