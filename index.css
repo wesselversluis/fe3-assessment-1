@@ -1,13 +1,17 @@
-.bar {
-  fill: red;
-}
-
 .bar:hover {
-  fill: pink;
-  outline: 1px solid red;
+    outline: 1px solid red;
     transition: 1s;
 }
 
 .axis--x path {
-  display: none;
+    display: none;
+}
+
+.d3-tip  {
+    background-color: #F2f2f2;
+    padding: 1rem;
+    border-radius: 2px;
+    font-family: sans-serif;
+    border: 1px solid #CCCCCC;
+    color: darkblue;
 }
